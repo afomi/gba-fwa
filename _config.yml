@@ -1,11 +1,23 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# baseurl: "" # the subpath of your site, e.g. /blog
+url: ""
 baseurl: ""
 
-title: "" # the name of your site, e.g. ACME Corp.
+title: "Blockchain Transparency Playbook"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-datapage-generator
+
+page_gen:
+  - data: "use_cases"
+    template: "use_case"
+    name: "slug"
+    dir: "use-cases"
 
 exclude:
   - package.json
   - package-lock.json
   - postcss.config.js
   - tailwind.config.js
+  - node_modules
+  - Gemfile
+  - Gemfile.lock

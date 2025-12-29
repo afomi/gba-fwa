@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "utah-county",
+    "title": "Utah County",
+    "category": "Budget transparency",
+    "summary": "Blockchain ledger for county budget and health department spend; citizen-facing transparency.",
+    "problem": "County budgeting lacked unified, real-time visibility for officials and the public.",
+    "intervention": "Immutable ledger with role-based approvals tied to program budgets and public dashboards.",
+    "outcomes": [
+      "Faster reconciliation across departments",
+      "Citizen oversight via shared ledger"
+    ],
+    "region": "USA",
+    "stage": "Live pilot"
+  },
+  {
+    "slug": "ghana-records-integrity",
+    "title": "Ghana",
+    "category": "Data integrity",
+    "summary": "Anchoring national records to blockchain to prevent tampering and improve trust.",
+    "problem": "Centralized registries were vulnerable to alteration and inconsistent provenance.",
+    "intervention": "Blockchain-backed registry with audit trail and identity-bound write permissions.",
+    "outcomes": [
+      "Tamper-evident record history",
+      "Improved confidence for agencies and citizens"
+    ],
+    "region": "Africa",
+    "stage": "Operational"
+  },
+  {
+    "slug": "dod-grants",
+    "title": "U.S. Department of Defense",
+    "category": "Grants & aid",
+    "summary": "Traceability from appropriations to program activities; smart contracts for eligibility and drawdowns.",
+    "problem": "Limited line-of-sight across multi-year grants and subcontracting created fraud and leakage risk.",
+    "intervention": "Program-level smart contracts enforcing eligibility, milestones, and controlled disbursements.",
+    "outcomes": [
+      "Reduced improper payments",
+      "Audit-ready lineage from budget to beneficiary"
+    ],
+    "region": "USA",
+    "stage": "Pilot"
+  },
+  {
+    "slug": "interagency-blockchain",
+    "title": "Inter-agency Blockchain Initiative",
+    "category": "Grants & aid",
+    "summary": "Shared ledger across agencies for coordinated funding and oversight.",
+    "problem": "Siloed financial systems blocked cross-agency reconciliation and oversight.",
+    "intervention": "Consortium chain linking sub-ledgers with common data standards and APIs.",
+    "outcomes": [
+      "Unified view of obligations and outlays",
+      "Lower investigation time for anomalies"
+    ],
+    "region": "USA",
+    "stage": "In design"
+  },
+  {
+    "slug": "un-wfp",
+    "title": "UN World Food Programme",
+    "category": "Humanitarian aid",
+    "summary": "Aid disbursement with identity verification to reduce leakage and duplication.",
+    "problem": "Aid programs faced beneficiary duplication and limited traceability of entitlements.",
+    "intervention": "Blockchain wallets linked to verified identities for entitlements and delivery confirmation.",
+    "outcomes": [
+      "Lower leakage in distributions",
+      "Faster settlement and reporting to donors"
+    ],
+    "region": "Global",
+    "stage": "Operational"
+  },
+  {
+    "slug": "us-department-of-energy",
+    "title": "U.S. Department of Energy",
+    "category": "Grants & aid",
+    "summary": "Grant distribution and asset tracking with immutable records.",
+    "problem": "Fragmented tracking of funded projects and assets across labs and partners.",
+    "intervention": "Blockchain-backed grant lifecycle with asset tokenization and milestone proofs.",
+    "outcomes": [
+      "Clear chain of custody for funded assets",
+      "Reduced reporting friction for recipients"
+    ],
+    "region": "USA",
+    "stage": "Pilot"
+  },
+  {
+    "slug": "doge-governance",
+    "title": "Department of Government Efficiency (DOGE)",
+    "category": "Governance",
+    "summary": "Mission-aligned blockchain oversight to cap fraud/waste across federal spending.",
+    "problem": "National mandate to reduce fraud lacked unified, real-time oversight tooling.",
+    "intervention": "Blockchain oversight platform measuring obligations vs. appropriations with alerts.",
+    "outcomes": [
+      "Near-real-time oversight",
+      "Policy enforcement tied to spending events"
+    ],
+    "region": "USA",
+    "stage": "In design"
+  },
+  {
+    "slug": "usaid",
+    "title": "U.S. Agency for International Development (USAID)",
+    "category": "Governance",
+    "summary": "Transparent aid flows and partner accountability on a shared ledger.",
+    "problem": "Complex international aid flows created opacity and audit lag.",
+    "intervention": "Consortium blockchain for grants with partner attestations and AI anomaly detection.",
+    "outcomes": [
+      "Improved partner compliance",
+      "Shorter audit cycles"
+    ],
+    "region": "Global",
+    "stage": "Planned pilot"
+  },
+  {
+    "slug": "unjspf-identity",
+    "title": "UN Joint Staff Pension Fund",
+    "category": "Identity & pensions",
+    "summary": "Decentralized identity to reduce beneficiary fraud and accelerate verification.",
+    "problem": "Manual beneficiary verification slowed payouts and was vulnerable to identity fraud.",
+    "intervention": "Self-sovereign identity with verifiable credentials for pension beneficiaries and approvers.",
+    "outcomes": [
+      "Faster eligibility checks",
+      "Lower identity fraud risk"
+    ],
+    "region": "Global",
+    "stage": "Operational"
+  },
+  {
+    "slug": "hhs-procurement",
+    "title": "U.S. Health & Human Services",
+    "category": "Procurement",
+    "summary": "End-to-end contract and supply-chain tracking with auditable budget tie-in.",
+    "problem": "Opaque procurement chain from budget to delivery limited oversight.",
+    "intervention": "Blockchain supply-chain with budget-linked smart contracts and milestone attestations.",
+    "outcomes": [
+      "Traceable contract spend",
+      "Reduced maverick purchasing"
+    ],
+    "region": "USA",
+    "stage": "Pilot"
+  },
+  {
+    "slug": "usaf-dibat",
+    "title": "USAF DiBaT",
+    "category": "Procurement",
+    "summary": "Digital Blockchain Budget Accountability and Tracking for Air Force programs.",
+    "problem": "Need for auditable linkage between program budgets and vendor performance.",
+    "intervention": "Program-level ledger with budget locks, milestone proofs, and vendor credentialing.",
+    "outcomes": [
+      "Reduced overrun risk",
+      "Improved vendor accountability"
+    ],
+    "region": "USA",
+    "stage": "Pilot"
+  }
+]
